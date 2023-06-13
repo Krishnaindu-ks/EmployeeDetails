@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmployeeDetails</string>
+    <string name="employee_details">Employee Details</string>
+    <string name="employee_name">Name:</string>
+    <string name="employee_age">Age:</string>
+    <string name="employee_number">Phone Number:</string>
+    <string name="employee_image">Image:</string>
+    <string name="employee_designation">Designation:</string>
+</resources>
